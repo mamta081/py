@@ -43,5 +43,5 @@ def isArmstrong(x):
 x = 153
 print(isArmstrong(x))
 
-x = 1253
+x = 12537
 print(isArmstrong(x))
